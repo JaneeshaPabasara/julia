@@ -1,0 +1,9 @@
+# Julia
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
+Manifest.toml
+
+# OS
+.DS_Store
+Thumbs.db
