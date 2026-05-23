@@ -37,7 +37,7 @@ A REST API that accepts CSV data, runs statistical analyses on it, and returns r
 - [x] **Session 01** (~60 min) — Setup & First Program  
   Install Julia, configure VS Code with Julia extension, run your first script. Write a function `greet(name)` that returns a greeting string. Understand the REPL. Learn `println`, `typeof`, basic arithmetic.
 
-- [ ] **Session 02** (~60 min) — Variables, Types & the Type System  
+- [x] **Session 02** (~60 min) — Variables, Types & the Type System  
   Explore Julia's type hierarchy. Practice with `Int64`, `Float64`, `String`, `Bool`, `Char`. Understand `const`. Write a small script that demonstrates type coercion and why Julia is strict about it.
 
 - [ ] **Session 03** (~60 min) — Control Flow  

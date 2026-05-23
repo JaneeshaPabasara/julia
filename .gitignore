@@ -7,6 +7,6 @@
 *.jl.mem
 Manifest.toml
 
-# OS
+# OS.
 .DS_Store
 Thumbs.db
