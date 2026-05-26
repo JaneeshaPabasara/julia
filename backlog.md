@@ -40,7 +40,7 @@ A REST API that accepts CSV data, runs statistical analyses on it, and returns r
 - [x] **Session 02** (~60 min) — Variables, Types & the Type System  
   Explore Julia's type hierarchy. Practice with `Int64`, `Float64`, `String`, `Bool`, `Char`. Understand `const`. Write a small script that demonstrates type coercion and why Julia is strict about it.
 
-- [ ] **Session 03** (~60 min) — Control Flow  
+- [x] **Session 03** (~60 min) — Control Flow  
   `if/elseif/else`, `for`, `while`, `break`, `continue`. Write a function that takes a vector of numbers and returns a Dict with keys `:positive`, `:negative`, `:zero` mapping to counts.
 
 - [ ] **Session 04** (~60 min) — Functions Deep Dive  
