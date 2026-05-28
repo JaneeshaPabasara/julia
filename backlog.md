@@ -43,7 +43,7 @@ A REST API that accepts CSV data, runs statistical analyses on it, and returns r
 - [x] **Session 03** (~60 min) — Control Flow  
   `if/elseif/else`, `for`, `while`, `break`, `continue`. Write a function that takes a vector of numbers and returns a Dict with keys `:positive`, `:negative`, `:zero` mapping to counts.
 
-- [ ] **Session 04** (~60 min) — Functions Deep Dive  
+- [x] **Session 04** (~60 min) — Functions Deep Dive  
   Multiple dispatch (Julia's superpower). Optional args, keyword args, varargs. Short-form functions. Write three versions of a `describe(x)` function dispatched on different types.
 
 - [ ] **Session 05** (~60 min) — Arrays & Matrices  
