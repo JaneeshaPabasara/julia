@@ -49,7 +49,7 @@ A REST API that accepts CSV data, runs statistical analyses on it, and returns r
 - [x] **Session 05** (~60 min) — Arrays & Matrices  
   1D arrays, 2D arrays, array comprehensions. Slicing, `push!`, `pop!`, `append!`. Column-major memory layout. Write `row_means(M)` and `col_stds(M)` functions for a matrix.
 
-- [ ] **Session 06** (~60 min) — Strings & File I/O  
+- [x] **Session 06** (~60 min) — Strings & File I/O  
   String interpolation, `split`, `strip`, `parse`. Read a plain text file line by line. Write a function `count_words(filepath)` that returns a word frequency Dict.
 
 - [ ] **Session 07** (~60 min) — Dictionaries, Sets & Tuples  
