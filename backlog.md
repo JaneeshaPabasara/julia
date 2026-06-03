@@ -46,7 +46,7 @@ A REST API that accepts CSV data, runs statistical analyses on it, and returns r
 - [x] **Session 04** (~60 min) — Functions Deep Dive  
   Multiple dispatch (Julia's superpower). Optional args, keyword args, varargs. Short-form functions. Write three versions of a `describe(x)` function dispatched on different types.
 
-- [ ] **Session 05** (~60 min) — Arrays & Matrices  
+- [x] **Session 05** (~60 min) — Arrays & Matrices  
   1D arrays, 2D arrays, array comprehensions. Slicing, `push!`, `pop!`, `append!`. Column-major memory layout. Write `row_means(M)` and `col_stds(M)` functions for a matrix.
 
 - [ ] **Session 06** (~60 min) — Strings & File I/O  
