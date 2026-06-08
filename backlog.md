@@ -52,7 +52,7 @@ A REST API that accepts CSV data, runs statistical analyses on it, and returns r
 - [x] **Session 06** (~60 min) — Strings & File I/O  
   String interpolation, `split`, `strip`, `parse`. Read a plain text file line by line. Write a function `count_words(filepath)` that returns a word frequency Dict.
 
-- [ ] **Session 07** (~60 min) — Dictionaries, Sets & Tuples  
+- [x] **Session 07** (~60 min) — Dictionaries, Sets & Tuples  
   When to use each. NamedTuples. Iteration patterns. Write a function `group_by(data, key_fn)` that groups a vector of values by a computed key.
 
 - [ ] **Session 08** (~60 min) — Structs & Custom Types  
